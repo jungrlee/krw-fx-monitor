@@ -1,0 +1,6 @@
+pandas>=2.0
+numpy>=1.24
+openpyxl>=3.1
+certifi
+# optional: daily foreign equity flows from KRX (needs a free data.krx.co.kr account)
+pykrx>=1.2.9
